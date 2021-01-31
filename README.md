@@ -50,5 +50,10 @@ For each id in the test set, you must predict a probability for the target varia
       ...
       
 -------      
+
+# Adult Data Set
+### Download: Data Folder, Data Set Description
+
+### Abstract: Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset
       
-      
+https://archive.ics.uci.edu/ml/datasets/adult     
